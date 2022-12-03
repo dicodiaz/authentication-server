@@ -1,0 +1,28 @@
+[
+  {
+    "id": "trN6r-8mDY93J_-7aE40C",
+    "email": "dicodiaz@gmail.com",
+    "password": "dico123",
+    "name": "Dico Diaz",
+    "bio": "Hello, I'm Dico",
+    "phone": "+571234567",
+    "photo": "https://media-exp1.licdn.com/dms/image/C4E03AQHU6jlf4xMsmg/profile-displayphoto-shrink_800_800/0/1517400321534?e=2147483647&v=beta&t=mQDToHCiTcsc1IAwgYQVz-0YFF-75ogZr5vpAybT5zM"
+  },
+  {
+    "id": "Bh2418FbfsWiVORpKXg58",
+    "email": "amandalopez@gmail.com",
+    "password": "amanda123",
+    "name": "Amanda Lopez",
+    "bio": "Hello, I'm Amanda",
+    "phone": "+571234567",
+    "photo": ""
+  },
+  {
+    "id": "foLxuiS13XC4mxOYQZau7",
+    "email": "johndoe@gmail.com",
+    "password": "john123",
+    "name": "John Doe",
+    "bio": "Hello, I'm John",
+    "phone": "+571234567"
+  }
+]
