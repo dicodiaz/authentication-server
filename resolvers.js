@@ -13,4 +13,10 @@ export const resolvers = {
       return User.findById(userId);
     },
   },
+
+  Mutation: {
+    createUser: (_root, { createUserInput }) => {
+      return User.create({ ...createUserInput });
+    },
+  },
 };
